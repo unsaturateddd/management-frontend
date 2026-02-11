@@ -1,0 +1,16 @@
+# Библиотеки (те самые тысячи файлов)
+node_modules/
+dist/
+build/
+
+# Локальные настройки и логи
+.env
+.env.local
+.DS_Store
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Папки редакторов
+.vscode/
+.idea/
