@@ -160,7 +160,7 @@ export default function App() {
   return (
     <div className="app-container">
       <div className="header">
-        <div className="logo">Type<span>Hub</span></div>
+        <div className="logo">Management<span>Version</span></div>
         <button className="btn btn-primary" onClick={() => setIsModalOpen(true)}>Создать проект</button>
       </div>
 
